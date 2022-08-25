@@ -1,6 +1,6 @@
 # NFT MarketPlace Smart Contracts
 <div align="center" style="font-size: 150px">
-    <img src="https://blog.logomyway.com/wp-content/uploads/2021/11/Ethereum-logo.png" alt="ethereum" height="110px">
+    <img src="https://seeklogo.com//images/E/ethereum-logo-DE26DD608D-seeklogo.com.png?v=637945125990000000" alt="ethereum" height="110px">
 +
     <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="ethereum" height="100px">
 </div>

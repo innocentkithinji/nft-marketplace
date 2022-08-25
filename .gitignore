@@ -23,3 +23,5 @@ yarn-error.log*
 /src/artifacts
 /src/cache
 /src/contractData
+./.idea
+./.idea/
