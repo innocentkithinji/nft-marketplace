@@ -20,7 +20,7 @@ describe("NFT", function () {
         });
     });
 
-    describe("Miniting NFTs", function () {
+    describe("Minting NFTs", function () {
         it("Should track each minted NFT", async function () {
 
             //addr1 mints an nft
